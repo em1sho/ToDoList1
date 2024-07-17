@@ -1,1 +1,4 @@
-wqeqwqwe
+Genel java tekrarı
+spring boota giriş 
+crud yapısı
+gitHub temel kullanım
